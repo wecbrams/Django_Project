@@ -1,1 +1,1 @@
-#Emobilis Django project
+#Beauty of Django project
